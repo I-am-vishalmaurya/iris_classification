@@ -1,0 +1,7 @@
+{
+  "name": "Iris Species Classifier",
+  "description": "CLassification of Iris flower based on dimension",
+  "repository": "https://github.com/I-am-vishalmaurya/iris_classification",
+  "logo": "https://iris-classification-knn.herokuapp.com/"
+  "keywords": ["python", "Iris Species", "KNN"]
+}
