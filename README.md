@@ -3,7 +3,7 @@
 
 This project can be used to classify the Iris species according to the given Sepal and Petal dimension.
 This model uses KNeighourClassifier to predict the ouput on given input.
-
+This task is done for The GRIP foundation as an intern in Data Science and Business Analytics in April 2021.
  This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
 • If you want to view the deployed model, click on the following link:<br />
